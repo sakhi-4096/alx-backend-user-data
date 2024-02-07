@@ -17,6 +17,7 @@ Personal data is a critical aspect of privacy and data protection, and it is sub
  * [logging](https://docs.python.org/3/library/logging.html)
  * [bcrypt package](https://github.com/pyca/bcrypt/)
  * [Logging to Files, Setting Levels, and Formatting](https://www.youtube.com/watch?v=-ARI4Cz-awo)
+ * [Uncovering Password Habits](https://www.digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic)
 
 ## Contact
  * [Twitter](https://www.twitter.com/sakhilelindah) / [Github](https://github.com/sakhi-4096) / [Mail](mailto:sakhilelindah@protonmail.com)
