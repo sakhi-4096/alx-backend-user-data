@@ -35,12 +35,12 @@ Simple HTTP API for playing with `User` model.
 
 ## Setup
 ```
-$ pip3 install -r requirements.txt
+sakhile@ALX[/app]$ pip3 install -r requirements.txt
 ```
 
 ## Run
 ```
-$ API_HOST=0.0.0.0 API_PORT=5000 python3 -m api.v1.app
+sakhile@ALX[/app]$ API_HOST=0.0.0.0 API_PORT=5000 python3 -m api.v1.app
 ```
 
 ## Routes
