@@ -14,5 +14,11 @@ It involves the use of sessions to keep track of authenticated users. When a use
 * **Expiration and Invalidation:** Sessions have an expiration time, and can be invalidated by the server, providing a level of control over user sessions.
 * **Traditional Web Applications:** Session authentication is commonly used in traditional web applications, where the server maintains the user's session state.
 
+## Credits
+ * [Advanced JAX-RS 22 - REST API Authentication Mechanisms](https://www.youtube.com/watch?v=501dpx2IjGY)
+ * [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cookie)
+ * [Flask](https://palletsprojects.com/p/flask/)
+ * [Flask Cookie](https://flask.palletsprojects.com/en/1.1.x/quickstart/#cookies)
+
 ## Contact
  * [Twitter](https://www.twitter.com/sakhilelindah) / [Github](https://github.com/sakhi-4096) / [Mail](mailto:sakhilelindah@protonmail.com)
